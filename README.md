@@ -6,12 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=32&pause=1000&color==21ffe1&center=true&vCenter=true&repeat=false&width=500&lines=Antonio+Leite+Jr" alt="Typing SVG" /></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=21ffe1&size=24&center=true&vCenter=true&width=1000&lines=Also+known+as+Caique-Rawos;I'm+19+years+old;I'm+from+Brazil,+SP;I'm+studying+Computer+Engineering+at+Univesp;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=21ffe1&size=24&center=true&vCenter=true&width=1000&lines=Also+known+as+Antonio;I'm+19+years+old;I'm+from+Brazil,+SP;I'm+studying+Software+Engineering+at+UNINTER;Be+Welcome!)](https://git.io/typing-svg)
 
 <p align="center">
     <a href="https://github.com/tleitejr?tab=repositories">
       <img alt="my repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-ff0080?style=for-the-badge&logoColor=white&logo=repo">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Caique-Rawos?color=ff0080&style=for-the-badge&labelColor=gray&logo=star">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tleitejr?color=ff0080&style=for-the-badge&labelColor=gray&logo=star">
     </a>
     <a href="https://github.com/tleitejr?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tleitejr?color=ff0080&labelColor=gray&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
