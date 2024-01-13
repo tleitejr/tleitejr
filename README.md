@@ -56,17 +56,17 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/Caique-Rawos/GerenciadorDeTarefas">
+    <a href="https://github.com/tleitejr/senai">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Caique-Rawos&repo=GerenciadorDeTarefas&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a> 
-    <a href="https://github.com/Caique-Rawos/GGWP-Store">
+    <a href="https://github.com/tleitejr/python-projects">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Caique-Rawos&repo=GGWP-Store&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a> 
-    <a href="https://github.com/Caique-Rawos/ERP_Agenda">
+    <a href="https://github.com/tleitejr/postgresql-comands">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Caique-Rawos&repo=ERP_Agenda&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a>
     </p>
-    <a href="https://github.com/Caique-Rawos?tab=repositories">
+    <a href="https://github.com/tleitejr?tab=repositories">
       <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
     </a>
 </details>
@@ -121,20 +121,20 @@
 ##
 
 
-<details open>
+<!--details open>
   <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
 
   <p align="center">
     <img title="🐍 Snake contributions" src="https://github.com/Caique-Rawos/Caique-Rawos/blob/output/github-contribution-grid-snake-dark.svg">
   </p>
-</details>
+</details-->
 
 <div>
   <h3 align="center">🌎 Find me around the web</h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/caique-caires-ramos-55297a208" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/antoniocleitejr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:caique.rawos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:juniorleitetonin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </p>
 </div>  
 
