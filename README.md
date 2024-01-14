@@ -16,7 +16,8 @@
     <a href="https://github.com/tleitejr?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tleitejr?color=ff0080&labelColor=gray&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
-    <img alt="view" title="Github View" src="https://komarev.com/ghpvc/?username=tleitejr&color=ff0080&labelColor=ff0080&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
+    <img alt="view" title="Github View"
+ src="https://komarev.com/ghpvc/?username=tleitejr&color=ff0080&labelColor=ff0080&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
 </p>
 
 <div align="center">
@@ -125,14 +126,14 @@
   <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
 
   <p align="center">
-    <img title="🐍 Snake contributions" src="https://github.com/Caique-Rawos/Caique-Rawos/blob/output/github-contribution-grid-snake-dark.svg">
+    <img title="🐍 Snake contributions" src="https://github.com/tleitejr/tleitejr/blob/output/github-contribution-grid-snake-dark.svg">
   </p>
 </details-->
 
 <div>
   <h3 align="center">🌎 Find me around the web</h3>
   <p align="center">
-    <a href="https://www.linkedin.com/in/caique-caires-ramos-55297a208" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/tleitejr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/antoniocleitejr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:juniorleitetonin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </p>
