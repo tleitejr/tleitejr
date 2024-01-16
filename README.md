@@ -42,14 +42,14 @@
 
   ```yaml
   name: Antonio Leite Jr
-  located_in: Limeira, São Paulo (Brazil)
+  located_in: São Paulo (Brazil)
   job: VR Software
   education: ["Software Engineering": "UNINTER", "Full Stack Developing": "SENAI"]
 
   fields_of_interests: ["Web Development", "JAVA Development", "Software Development", "Server-Side Programming"]
   currently_learning: ["Java", "POO", "Frameworks", "Database Managment", "Clean Code"]
 
-  hobbies: ["Chess", "Casual Gaming", "Rubik's Cube"]
+  hobbies: ["Chess", "Casual Gaming", "Soccer"]
   ```
 
 <details open> 
