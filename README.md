@@ -1,4 +1,4 @@
-<!-- ### Hi, I'm Antonio Leite Jr -->
+<!-- Hi, I'm Antonio Leite Jr -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=80&section=header"/>
 
