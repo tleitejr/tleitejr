@@ -33,3 +33,5 @@ Currently focused on improving my skills in backend engineering, system integrat
 - I like building things that solve real problems  
 
 *Always open to interesting projects and good conversations.*
+
+Email: tleitejr@proton.me
